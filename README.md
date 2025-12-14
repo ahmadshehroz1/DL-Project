@@ -11,7 +11,7 @@ This work was completed as a **Semester Project in Deep Learning**.
 
 ## Methodology
 
-### 1. Semi-Supervised Learning (SSL)
+### 1. Self-Supervised Learning (SSL)
 - A teacher model is trained using **DINO-style self-supervised learning** on unlabeled micro-expression images.
 - SSL helps learn strong feature representations without relying entirely on labeled data.
 
@@ -43,7 +43,6 @@ This work was completed as a **Semester Project in Deep Learning**.
 ├── data/                   # Dataset directory (not included)
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
-└── .gitignore
 ```
 
 ---
